@@ -1,4 +1,4 @@
-### Laravel Auth Theme Test
+### Default Laravel Auth Theme
 This repo is an exact replica of laravel 5.2 auth views generated when you run this in the command line.
 ```bash
 $ php artisan make:auth
